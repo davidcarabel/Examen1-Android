@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Examen1eva</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="hintUsuario">Usuario</string>
+    <string name="hintPassword">Contraseña</string>
+    <string name="hintRepeatPassword">Repita Contraseña</string>
+
+    <string name="buttonVolver">Volver</string>
+    <string name="buttonRegistro">Registro</string>
+    <string name="buttonEntrar">Entrar</string>
+</resources>
